@@ -5,7 +5,7 @@ class Atividade1 {
         
         String nome;
         Integer idade;
-        char cpf;
+        char sexo;
         String rg;
         String cidade;
         String endereco;
